@@ -1,0 +1,1 @@
+The code for a REST API that I created for the Meta APIs course on Coursera. I vibe coded using OpenAI to meet the specifications of the project, creating a set of 27 tests to verify the API endpoints and behaviours.
